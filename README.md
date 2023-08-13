@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm amin abdedaiem</h1>
 <h3 align="center">a NLP researcher in day and app developer at night</h3>
-
-<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amincoding" alt="amincoding" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/aminabdeda86735" target="blank"><img src="https://img.shields.io/twitter/follow/aminabdeda86735?logo=twitter&style=for-the-badge" alt="aminabdeda86735" /></a> </p>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🔭 I’m currently working on **3 articles reguarding algerian dialect in fake news and translation in general**
 
 - 🌱 I’m currently learning **C/C++ and rust**
@@ -20,10 +14,6 @@
 - 📄 Know about my experiences [i am 3 years flutter app developer](i am 3 years flutter app developer)
 
 - ⚡ Fun fact **i am patient and never give up**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -42,8 +32,3 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/aminabdedaiem"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aminabdedaiem" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amincoding&show_icons=true&locale=en&layout=compact" alt="amincoding" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amincoding&show_icons=true&locale=en" alt="amincoding" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amincoding&" alt="amincoding" /></p>
