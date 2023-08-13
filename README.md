@@ -1,3 +1,6 @@
+<img align="right" alt="Coding" width="1000" src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif">
+<h1> </h1>
+<h1> </h1>
 <h1 align="center">Hi 👋, I'm amin abdedaiem</h1>
 <h3 align="center">a NLP researcher in day and app developer at night</h3>
 
@@ -37,7 +40,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/aminabdedaiem"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aminabdedaiem" /></a></p><br><br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amincoding&show_icons=true&locale=en&layout=compact" alt="amincoding" /></p>
+<h1> </h1>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amincoding&show_icons=true&locale=en&layout=compact" alt="amincoding" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amincoding&" alt="amincoding" /></p>
