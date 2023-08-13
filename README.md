@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **aminabdedaiem@gmail.com**
 
-- 📄 Know about my experiences [i am 3 years flutter app developer](i am 3 years flutter app developer)
+- 📄 Know about my experiences [i am 3 years flutter app developer]
 
 - ⚡ Fun fact **i am patient and never give up**
 
