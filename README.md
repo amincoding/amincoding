@@ -9,8 +9,7 @@
 <p align="left"> <a href="https://twitter.com/aminabdeda86735" target="blank"><img src="https://img.shields.io/twitter/follow/aminabdeda86735?logo=twitter&style=for-the-badge" alt="aminabdeda86735" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on nlp articles reguarding fake news and   
-    flutter POS app
+- 🔭 I’m currently working on nlp articles reguarding fake news and flutter POS app
 
 - 🌱 I’m currently learning **C/C++ and rust**
 
