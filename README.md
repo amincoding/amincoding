@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm amin abdedaiem</h1>
 <h3 align="center">a NLP researcher in day and app developer at night</h3>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amincoding" alt="amincoding" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/aminabdeda86735" target="blank"><img src="https://img.shields.io/twitter/follow/aminabdeda86735?logo=twitter&style=for-the-badge" alt="aminabdeda86735" /></a> </p>
