@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm amin abdedaiem</h1>
 <h3 align="center">a NLP researcher in day and app developer at night</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amincoding&label=Profile%20views&color=0e75b6&style=flat" alt="amincoding" /> </p>
+
+<p align="left"> <a href="https://twitter.com/aminabdeda86735" target="blank"><img src="https://img.shields.io/twitter/follow/aminabdeda86735?logo=twitter&style=for-the-badge" alt="aminabdeda86735" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-- 🔭 I’m currently working on **3 articles reguarding algerian dialect in fake news and translation in general**
+
+- 🔭 I’m currently working on nlp articles reguarding fake news and   
+    flutter POS app
 
 - 🌱 I’m currently learning **C/C++ and rust**
 
@@ -32,3 +38,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/aminabdedaiem"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aminabdedaiem" /></a></p><br><br>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amincoding&show_icons=true&locale=en&layout=compact" alt="amincoding" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amincoding&" alt="amincoding" /></p>
