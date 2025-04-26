@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **aminabdedaiem@gmail.com**
 
-- 📄 Know about my experiences [i am 4 years flutter app developer]
+- 📄 Know about my experiences [i am 8 years full-stack flutter and react app abd web developer]
 
 - ⚡ Fun fact **i am patient and never give up**
 
